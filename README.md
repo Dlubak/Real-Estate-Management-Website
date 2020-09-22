@@ -1,2 +1,2 @@
 # Spring Web Aplication for Diploma Thesis
-# Real Estate Offer Site
+Real Estate CRUD application
